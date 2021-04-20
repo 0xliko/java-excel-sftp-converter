@@ -1,4 +1,4 @@
-The [Java Excel converter](http://192.168.6.100:3000/shc/java-excel-converter)  
+The [Java Excel converter](git remote add origin https://github.com/jsgrowing315/java-excel-sftp-converter)  
 is project which download excel file from stfp and convert into csv, then upload
 to sftp using java.
 this project is netbeans project
